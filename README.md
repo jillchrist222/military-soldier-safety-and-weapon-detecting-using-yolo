@@ -57,23 +57,5 @@ Create a `report.pdf` with the following sections:
 
 Take screenshots of the detection results and save them in a folder named `screenshots`. Include these in your report and presentation.
 
-### Step 4: Organize the Files
-
-Organize your project directory as follows:
-
-
-## About the Author
-
-- **Name**: [Deva Vinoth]
-- **GitHub**: [devavinothm](https://github.com/devavinothm/)
-- **LinkedIn**: [Deva Vinoth](https://www.linkedin.com/in/devavinoth/)
-- **Portfolio**: [Deva Vinoth](https://deva-vinoth.web.app/)
-- **Email**: [learnerdev101@gmail.com]
-
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/devavinoth/)
-- [GitHub](https://github.com/devavinothm/)
 
 ## Have a Great Day!
